@@ -77,14 +77,14 @@ FNF:3
 FNH:3
 FNDA:6,useThrottle
 FNDA:6,(anonymous_1)
-FNDA:3,(anonymous_2)
+FNDA:4,(anonymous_2)
 DA:4,6
 DA:6,6
 DA:7,6
 DA:8,5
 DA:9,5
-DA:10,3
-DA:11,3
+DA:10,4
+DA:11,4
 LF:7
 LH:7
 BRDA:7,0,0,5
